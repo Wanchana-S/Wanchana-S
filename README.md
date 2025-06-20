@@ -1,14 +1,47 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wanchana Saelue
 =======================================================================================================================================
+I have been working for more than 5+ years. I'm looking for a job in SQL Developer and Developer .
 
-SQL Developer
-----------
-
-I have been working for more than 4 years. I'm looking for a job in SQL Developer and BI Developer or Other.
 
 * 🌍  I'm based in Phra Samut Chedi, Samut Prakan
-* ✉️  You can contact me at [wanchana.job@hotmail.com](mailto:wanchana.job@hotmail.com)
-* 🧠  I'm learning React, JavaScript, Python, Power BI
+* ✉️  You can contact me at [wanchana.job@hotmail.com](mailto:wanchana.job@hotmail.com) - Line : raffyoreo
+* 🧠  I'm learning React, JavaScript, Python
+  
+SQL Developer <br>
+----------
+As a motivated SQL Developer, I aspire to contribute my skills in complex query development,performance optimization, and data analysis to adynamic and forward-thinking organization. My goalis to deliver high-quality data solutions whilecontinuously expanding my technical andprofessional expertise, and growing in the field ofdatabase development and data engineering.
+
+
+
+SQL Developer & SSRS ( Contract ) Sep 2023 - present <br>
+Fujitsu Systems Business (Thailand) Co., Ltd.
+* Develop web applications using Angular
+* For managing different service systems with theOracle package.
+* Prepare data and generate reports as assigned.Develop reports using SSRS reports and Oracle database.
+* Optimized database performance through querytuning, indexing, and system analysis.<br>
+----------
+ERP Developer ( Epicor Kinetic ) Jan 2022- Aug 2023<br>
+MIB Co., Ltd.
+- Developed ERP Software (Epicor) for customers
+- Create reports for clients using SSRS reports, MSSQL, Stored Procedure.
+- Create dashboards for customersSupport each project under assigned supervision.<br>
+----------
+ERP Developer ( Infor Syteline ) Oct 2019- December 2021<br>
+ERP Partner Co., Ltd.
+- Developed ERP Software (Infor Syteline) for clients of more than 5 companies.
+- Create reports for clients using SSRS reports, MSSQL, Stored Procedure.
+- Training customize ERP Software for customers.
+- Support each project under assigned supervision.
+-----------
+Project React (Course) <br>
+https://js-wanchana-light-dark-mode.netlify.app/ <br>
+https://js-wanchana-my-money-tracker.netlify.app/ <br>
+https://js-wanchana-currency-converter.netlify.app/ <br>
+https://react-wanchana-my-app.netlify.app/ <br>
+https://react-wanchana-shopping-app.netlify.app/ <br>
+https://react-wanchana-blog-app.netlify.app/ <br>
+https://react-wachana-task-app.netlify.app/
+
 
 
 ### Code Editors
